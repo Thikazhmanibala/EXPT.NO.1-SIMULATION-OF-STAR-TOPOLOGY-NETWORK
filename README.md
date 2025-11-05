@@ -1,10 +1,9 @@
-# DATE
+# DATE:15/08/25
 # EXPT. NO. 1 SIMULATION OF STAR TOPOLOGY NETWORK
 
 # AIM 
  To simulate a network with Topology, using Cisco Packet Tracer and to verify the connectivity between computer using ICMP.
 # EQUIPMENTS REQUIRED
-
 Desktop computer
 Cisco Packet Tracer 5.0 Software.
 
@@ -25,11 +24,15 @@ STEP 9: Select “add simple PDU” from tool bar and place it in source and des
 
 
 # NETWORK DIAGRAM
+<img width="1123" height="386" alt="Screenshot 2025-11-05 152605" src="https://github.com/user-attachments/assets/8149085c-e976-4a3a-befb-7ee0eadd5791" />
+
 
 
 
 
 # OUTPUT
+<img width="678" height="728" alt="image" src="https://github.com/user-attachments/assets/8f6dde88-eb92-46e4-89ae-d7f1652f6b15" />
+
 
 
 # RESULT
